@@ -1,14 +1,5 @@
 
 
-![](https://github.com/LevineLL/Project/blob/master/VRPonami.png)
+#Adatvédelmi irányelvek
 
-
-The Time management
-=
-## Recommended time management assistant
-##[The most beautiful application] recommended efficiency application
-
-With a small capacity, you can [know yourself], [improve yourself], try to become [efficiency], and [supervise each other with your friends]. If you are a parent, you can use [controlling your child] to guide your child's healthy habits.
-## [Contact Us]
-
-* Gi07147439@gmail.com
+A Szoftver tiszteletben tartja és védi a Szolgáltatást használó valamennyi felhasználó magánéletét. Annak érdekében, hogy pontosabb és személyre szabottabb szolgáltatásokat nyújtson, a Szoftver az Ön személyes adatait felhasználja és nyilvánosságra hozza e Adatvédelmi irányelveknek megfelelően. A szoftver azonban nagyfokú gondossággal és körültekintéssel kezeli ezt az információt. Kivéve, ha az Adatvédelmi Szabályzat másként rendelkezik, a Szoftver előzetes engedélye nélkül nem hoz nyilvánosságra vagy nem szolgáltat ilyen információkat harmadik feleknek. Ez a szoftver időről időre frissíti ezt az adatvédelmi irányelvet. A Szoftverszolgáltatási Használati Szerződés elfogadásával Ön úgy ítéli meg, hogy elfogadta az adatvédelmi irányelvek teljes tartalmát. Ez az adatvédelmi irányelv a Szoftverszolgáltatás-használati megállapodás szerves részét képezi. 1. Alkalmazási köre a) A mobiltelefonon található információk, amelyeket a szoftver automatikusan fogad és rögzít, amikor a szoftver hálózati szolgáltatást használja, beleértve, de nem kizárólagosan az Ön egészségügyi adatait, a használt nyelvet, a hozzáférési dátumot és időt, a hardver és a szoftver jellemzőit. És olyan adatok, mint a szükséges webes feljegyzések 2. Az információk használata a) Az adatok megszerzése után a szoftver feltölti azt a szerverre, hogy létrehozza a ranglista adatait, így jobban használhatja a szolgáltatást. 3. Információ közzététele a) A Szoftver nem fogja közzétenni az Ön adatait a nem megbízható harmadik feleknek. b) A törvény vonatkozó rendelkezéseinek, illetve az igazgatási vagy igazságügyi intézmények követelményeinek megfelelően, harmadik feleknek vagy közigazgatási és igazságügyi intézményeknek kell közzétenni, c) ha megsérti a vonatkozó kínai törvényeket, szabályokat vagy vonatkozó szabályokat, közzé kell tennie a harmadik feleket; Információk tárolása és cseréje A Szoftverrel kapcsolatban Ön által gyűjtött információkat és anyagokat a Szoftver és / vagy annak leányvállalatainak szerverei tárolják, amelyek információt és anyagokat gyűjthetnek az Ön országába, régiójába vagy a Szoftverbe. Az országon kívül található, és az országon kívül elérhető, tárolható és megjeleníthető. 5. Információbiztonság a) Az online tranzakciókhoz használt szoftveres webszolgáltatás használatakor elkerülhetetlenül nyilvánosságra hozza személyes adatait, például a kapcsolattartási adatokat vagy a postai címet, a partner vagy a potenciális partner számára. Kérjük, védje meg személyes adatait, és csak akkor adja meg másoknak, ha szükséges. Ha úgy találja, hogy személyes adatai kiszivárognak, kérjük, azonnal forduljon a szoftver ügyfélszolgálatához, hogy a szoftver megfelelő intézkedéseket hozzon.
