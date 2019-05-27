@@ -4,11 +4,8 @@
 
 
 ## [Description]
-A klasszikus szórakoztató léghajó lövöldözős játék, pihenhet és egy ideig dolgozhat, hogy kiszálljon a gépből. A játéknak két lehetősége van: klasszikus mód és szint mód. 
-
-A klasszikus mód összhangban van a WeChat repülőgépes háborús játékkal. A szintmód összesen hét szinttel rendelkezik, és a játék még őrültebb, mivel az ellenség egyre őrültebbé válik.
-
-a végső Boss pedig nehezebb megszüntetni. Ellenőrizheti a pontszámok rangsorát és eredményeit, jöjjön és vegye ki a kihívást!
+An aerial shooting game, the player will drive his own spaceship, and the enemy will be in the air, the intense battle will let you fall into it. Come and challenge!
+The player plays a spaceship to the space base against the alien robot, and the player uses the terrain and the enemy to fight and destroy the enemy to win. A variety of unique weapons in the game, ok. Come play!
 ## [Contact Us]
 
 * eqhf2hds1dsj@gmail.com
